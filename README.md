@@ -37,7 +37,7 @@ LANGAGE
   - Python 3.8 ou supérieur
 
 BIBLIOTHÈQUES PRINCIPALES
--------------------------------------------------------------------------------
+
   Catégorie Machine Learning :
   - scikit-learn 1.7.2 (Random Forest, Régression Logistique)
   
@@ -53,7 +53,7 @@ BIBLIOTHÈQUES PRINCIPALES
   - customtkinter (interface moderne)
 
 MODÈLES IMPLÉMENTÉS
--------------------------------------------------------------------------------
+
   Modèle 1 - RANDOM FOREST
   - Type : Ensemble de 100 arbres de décision
   - Usage : Production / Prédiction
@@ -70,7 +70,7 @@ FORMATS DE DONNÉES
   - Pickle (modèles sauvegardés)
 
 CAS D'USAGE
--------------------------------------------------------------------------------
+
 1 : DÉPISTAGE PRÉVENTIF
 Contexte : Un patient consulte pour un bilan cardiaque de routine.
 Utilisation : Le médecin saisit les paramètres du patient (âge, tension,
@@ -104,7 +104,7 @@ Utilisation : Intégration du modèle pour un premier niveau de tri des
 Bénéfice : Priorisation des patients à risque élevé.
 
 RÉSULTATS
--------------------------------------------------------------------------------
+
 
 RANDOM FOREST - MODÈLE PRINCIPAL
 
@@ -124,7 +124,7 @@ Métriques sur l'ensemble d'ENTRAÎNEMENT :
   AUC-ROC       : 0.980
 
 INSTALLATION
-================================================================================
+
 PRÉREQUIS : Python 3.8+
 
 Installer les dependences :
