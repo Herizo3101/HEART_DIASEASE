@@ -6,7 +6,6 @@ L'application permet d'évaluer le risque de maladie cardiaque à partir de
 11 paramètres cliniques standards.
 
 FONCTIONNALITÉS PRINCIPALES :
--------------------------------------------------------------------------------
 - PRÉDICTION EN TEMPS RÉEL
   Saisie des données patient et obtention immédiate du risque cardiaque
   (Risque élevé / Risque faible) avec probabilité associée.
